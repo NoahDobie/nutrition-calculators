@@ -1,0 +1,942 @@
+{
+ "components": {
+  "breads": [
+   {
+    "name": "Italian",
+    "nutrition": {
+     "weight_g": 71.0,
+     "calories_kcal": 210.0,
+     "fat_g": 2.0,
+     "saturated_fat_g": 1.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 380.0,
+     "carbohydrates_g": 39.0,
+     "fibre_g": 1.0,
+     "total_sugars_g": 3.0,
+     "protein_g": 8.0
+    }
+   },
+   {
+    "name": "Multigrain",
+    "nutrition": {
+     "weight_g": 71.0,
+     "calories_kcal": 200.0,
+     "fat_g": 3.0,
+     "saturated_fat_g": 1.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 350.0,
+     "carbohydrates_g": 36.0,
+     "fibre_g": 3.0,
+     "total_sugars_g": 4.0,
+     "protein_g": 9.0
+    }
+   },
+   {
+    "name": "Flatbread",
+    "nutrition": {
+     "weight_g": 45.0,
+     "calories_kcal": 140.0,
+     "fat_g": 3.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 220.0,
+     "carbohydrates_g": 24.0,
+     "fibre_g": 1.0,
+     "total_sugars_g": 2.0,
+     "protein_g": 4.0
+    }
+   },
+   {
+    "name": "Ghost Pepper Bread",
+    "nutrition": {
+     "weight_g": 74.0,
+     "calories_kcal": 220.0,
+     "fat_g": 3.0,
+     "saturated_fat_g": 1.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 620.0,
+     "carbohydrates_g": 40.0,
+     "fibre_g": 2.0,
+     "total_sugars_g": 3.0,
+     "protein_g": 8.0
+    }
+   },
+   {
+    "name": "Italian Herbs & Cheese",
+    "nutrition": {
+     "weight_g": 82.0,
+     "calories_kcal": 250.0,
+     "fat_g": 5.0,
+     "saturated_fat_g": 3.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 10.0,
+     "sodium_mg": 580.0,
+     "carbohydrates_g": 41.0,
+     "fibre_g": 2.0,
+     "total_sugars_g": 3.0,
+     "protein_g": 10.0
+    }
+   },
+   {
+    "name": "Ciabatta",
+    "nutrition": {
+     "weight_g": 76.0,
+     "calories_kcal": 210.0,
+     "fat_g": 5.0,
+     "saturated_fat_g": 1.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 410.0,
+     "carbohydrates_g": 36.0,
+     "fibre_g": 2.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 6.0
+    }
+   },
+   {
+    "name": "Gluten Free Bread",
+    "nutrition": {
+     "weight_g": 120.0,
+     "calories_kcal": 330.0,
+     "fat_g": 12.0,
+     "saturated_fat_g": 1.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 890.0,
+     "carbohydrates_g": 55.0,
+     "fibre_g": 7.0,
+     "total_sugars_g": 1.0,
+     "protein_g": 3.0
+    }
+   },
+   {
+    "name": "Wrap",
+    "nutrition": {
+     "weight_g": 102.0,
+     "calories_kcal": 300.0,
+     "fat_g": 7.0,
+     "saturated_fat_g": 1.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 480.0,
+     "carbohydrates_g": 51.0,
+     "fibre_g": 2.0,
+     "total_sugars_g": 1.0,
+     "protein_g": 8.0
+    }
+   }
+  ],
+  "proteins": [
+   {
+    "name": "Bacon Slices (2 strips)",
+    "nutrition": {
+     "weight_g": 10.0,
+     "calories_kcal": 50.0,
+     "fat_g": 4.0,
+     "saturated_fat_g": 2.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 10.0,
+     "sodium_mg": 180.0,
+     "carbohydrates_g": 0.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 4.0
+    }
+   },
+   {
+    "name": "Beans & Corn (1.5 oz)",
+    "nutrition": {
+     "weight_g": 43.0,
+     "calories_kcal": 60.0,
+     "fat_g": 3.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 180.0,
+     "carbohydrates_g": 9.0,
+     "fibre_g": 3.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 3.0
+    }
+   },
+   {
+    "name": "Beef Brisket",
+    "nutrition": {
+     "weight_g": 85.0,
+     "calories_kcal": 220.0,
+     "fat_g": 15.0,
+     "saturated_fat_g": 4.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 65.0,
+     "sodium_mg": 630.0,
+     "carbohydrates_g": 2.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 20.0
+    }
+   },
+   {
+    "name": "Chicken, Grilled",
+    "nutrition": {
+     "weight_g": 64.0,
+     "calories_kcal": 60.0,
+     "fat_g": 1.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 30.0,
+     "sodium_mg": 340.0,
+     "carbohydrates_g": 1.0,
+     "fibre_g": 1.0,
+     "total_sugars_g": 1.0,
+     "protein_g": 11.0
+    }
+   },
+   {
+    "name": "Chicken Strips, Plain",
+    "nutrition": {
+     "weight_g": 71.0,
+     "calories_kcal": 80.0,
+     "fat_g": 2.0,
+     "saturated_fat_g": 1.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 50.0,
+     "sodium_mg": 210.0,
+     "carbohydrates_g": 1.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 15.0
+    }
+   },
+   {
+    "name": "Chicken Strips, Sweet Onion Teriyaki Glazed",
+    "nutrition": {
+     "weight_g": 85.0,
+     "calories_kcal": 110.0,
+     "fat_g": 2.0,
+     "saturated_fat_g": 1.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 50.0,
+     "sodium_mg": 370.0,
+     "carbohydrates_g": 9.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 7.0,
+     "protein_g": 15.0
+    }
+   },
+   {
+    "name": "Cold Cut Combo Meats",
+    "nutrition": {
+     "weight_g": 64.0,
+     "calories_kcal": 190.0,
+     "fat_g": 16.0,
+     "saturated_fat_g": 6.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 35.0,
+     "sodium_mg": 550.0,
+     "carbohydrates_g": 3.0,
+     "fibre_g": 1.0,
+     "total_sugars_g": 1.0,
+     "protein_g": 9.0
+    }
+   },
+   {
+    "name": "Egg Patty, Scrambled",
+    "nutrition": {
+     "weight_g": 85.0,
+     "calories_kcal": 150.0,
+     "fat_g": 12.0,
+     "saturated_fat_g": 3.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 220.0,
+     "sodium_mg": 290.0,
+     "carbohydrates_g": 3.0,
+     "fibre_g": 1.0,
+     "total_sugars_g": 1.0,
+     "protein_g": 8.0
+    }
+   },
+   {
+    "name": "Ham, Black Forest",
+    "nutrition": {
+     "weight_g": 54.0,
+     "calories_kcal": 60.0,
+     "fat_g": 2.0,
+     "saturated_fat_g": 1.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 25.0,
+     "sodium_mg": 420.0,
+     "carbohydrates_g": 3.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 1.0,
+     "protein_g": 8.0
+    }
+   },
+   {
+    "name": "Italian B.M.T. Meats",
+    "nutrition": {
+     "weight_g": 71.0,
+     "calories_kcal": 190.0,
+     "fat_g": 14.0,
+     "saturated_fat_g": 5.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 45.0,
+     "sodium_mg": 1000.0,
+     "carbohydrates_g": 3.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 1.0,
+     "protein_g": 12.0
+    }
+   },
+   {
+    "name": "Meatballs with Marinara",
+    "nutrition": {
+     "weight_g": 139.0,
+     "calories_kcal": 240.0,
+     "fat_g": 15.0,
+     "saturated_fat_g": 6.0,
+     "trans_fat_g": 1.0,
+     "cholesterol_mg": 45.0,
+     "sodium_mg": 720.0,
+     "carbohydrates_g": 12.0,
+     "fibre_g": 2.0,
+     "total_sugars_g": 5.0,
+     "protein_g": 15.0
+    }
+   },
+   {
+    "name": "Pepperoni (3 slices)",
+    "nutrition": {
+     "weight_g": 18.0,
+     "calories_kcal": 80.0,
+     "fat_g": 7.0,
+     "saturated_fat_g": 3.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 15.0,
+     "sodium_mg": 400.0,
+     "carbohydrates_g": 1.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 1.0,
+     "protein_g": 4.0
+    }
+   },
+   {
+    "name": "Rotisserie-Style Chicken",
+    "nutrition": {
+     "weight_g": 71.0,
+     "calories_kcal": 90.0,
+     "fat_g": 3.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 40.0,
+     "sodium_mg": 270.0,
+     "carbohydrates_g": 0.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 17.0
+    }
+   },
+   {
+    "name": "Salami",
+    "nutrition": {
+     "weight_g": 59.0,
+     "calories_kcal": 230.0,
+     "fat_g": 20.0,
+     "saturated_fat_g": 7.0,
+     "trans_fat_g": 1.0,
+     "cholesterol_mg": 50.0,
+     "sodium_mg": 1070.0,
+     "carbohydrates_g": 2.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 1.0,
+     "protein_g": 11.0
+    }
+   },
+   {
+    "name": "Sausage Patty, Breakfast (1 patty)",
+    "nutrition": {
+     "weight_g": 37.0,
+     "calories_kcal": 130.0,
+     "fat_g": 11.0,
+     "saturated_fat_g": 3.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 30.0,
+     "sodium_mg": 210.0,
+     "carbohydrates_g": 1.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 6.0
+    }
+   },
+   {
+    "name": "Steak (no cheese)",
+    "nutrition": {
+     "weight_g": 71.0,
+     "calories_kcal": 110.0,
+     "fat_g": 5.0,
+     "saturated_fat_g": 2.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 40.0,
+     "sodium_mg": 540.0,
+     "carbohydrates_g": 3.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 2.0,
+     "protein_g": 14.0
+    }
+   },
+   {
+    "name": "Tuna (includes Mayonnaise)",
+    "nutrition": {
+     "weight_g": 71.0,
+     "calories_kcal": 230.0,
+     "fat_g": 20.0,
+     "saturated_fat_g": 3.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 40.0,
+     "sodium_mg": 310.0,
+     "carbohydrates_g": 0.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 11.0
+    }
+   },
+   {
+    "name": "Turkey Breast",
+    "nutrition": {
+     "weight_g": 60.0,
+     "calories_kcal": 70.0,
+     "fat_g": 2.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 30.0,
+     "sodium_mg": 500.0,
+     "carbohydrates_g": 4.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 2.0,
+     "protein_g": 9.0
+    }
+   },
+   {
+    "name": "Veggie Patty",
+    "nutrition": {
+     "weight_g": 85.0,
+     "calories_kcal": 170.0,
+     "fat_g": 9.0,
+     "saturated_fat_g": 1.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 320.0,
+     "carbohydrates_g": 17.0,
+     "fibre_g": 8.0,
+     "total_sugars_g": 2.0,
+     "protein_g": 6.0
+    }
+   }
+  ],
+  "cheeses": [
+   {
+    "name": "Canadian Cheddar",
+    "nutrition": {
+     "weight_g": 11.0,
+     "calories_kcal": 40.0,
+     "fat_g": 4.0,
+     "saturated_fat_g": 2.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 10.0,
+     "sodium_mg": 80.0,
+     "carbohydrates_g": 0.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 3.0
+    }
+   },
+   {
+    "name": "Cheddar, Processed",
+    "nutrition": {
+     "weight_g": 11.0,
+     "calories_kcal": 40.0,
+     "fat_g": 3.0,
+     "saturated_fat_g": 2.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 10.0,
+     "sodium_mg": 190.0,
+     "carbohydrates_g": 1.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 2.0
+    }
+   },
+   {
+    "name": "Habanero Jack",
+    "nutrition": {
+     "weight_g": 11.0,
+     "calories_kcal": 40.0,
+     "fat_g": 4.0,
+     "saturated_fat_g": 2.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 10.0,
+     "sodium_mg": 80.0,
+     "carbohydrates_g": 0.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 3.0
+    }
+   },
+   {
+    "name": "Monterey Jack & Cheddar Cheese Blend, Shredded",
+    "nutrition": {
+     "weight_g": 14.0,
+     "calories_kcal": 50.0,
+     "fat_g": 5.0,
+     "saturated_fat_g": 3.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 15.0,
+     "sodium_mg": 100.0,
+     "carbohydrates_g": 1.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 3.0
+    }
+   },
+   {
+    "name": "Parmesan, Grated",
+    "nutrition": {
+     "weight_g": 3.0,
+     "calories_kcal": 10.0,
+     "fat_g": 1.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 5.0,
+     "sodium_mg": 65.0,
+     "carbohydrates_g": 0.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 1.0
+    }
+   }
+  ],
+  "veggies": [
+   {
+    "name": "Avocado, Smashed",
+    "nutrition": {
+     "weight_g": 35.0,
+     "calories_kcal": 70.0,
+     "fat_g": 6.0,
+     "saturated_fat_g": 1.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 130.0,
+     "carbohydrates_g": 3.0,
+     "fibre_g": 2.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 1.0
+    }
+   },
+   {
+    "name": "Banana Peppers",
+    "nutrition": {
+     "weight_g": 4.0,
+     "calories_kcal": 1.0,
+     "fat_g": 0.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 65.0,
+     "carbohydrates_g": 0.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Cucumbers",
+    "nutrition": {
+     "weight_g": 14.0,
+     "calories_kcal": 2.0,
+     "fat_g": 0.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 0.0,
+     "carbohydrates_g": 1.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Fresh Salsa (Tomatoes, Onions, Green Peppers)",
+    "nutrition": {
+     "weight_g": 49.0,
+     "calories_kcal": 10.0,
+     "fat_g": 0.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 0.0,
+     "carbohydrates_g": 2.0,
+     "fibre_g": 1.0,
+     "total_sugars_g": 2.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Green Peppers",
+    "nutrition": {
+     "weight_g": 7.0,
+     "calories_kcal": 1.0,
+     "fat_g": 0.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 0.0,
+     "carbohydrates_g": 0.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Jalapeno Peppers",
+    "nutrition": {
+     "weight_g": 4.0,
+     "calories_kcal": 1.0,
+     "fat_g": 0.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 70.0,
+     "carbohydrates_g": 0.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Lettuce",
+    "nutrition": {
+     "weight_g": 21.0,
+     "calories_kcal": 3.0,
+     "fat_g": 0.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 0.0,
+     "carbohydrates_g": 0.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Olives, Black",
+    "nutrition": {
+     "weight_g": 3.0,
+     "calories_kcal": 3.0,
+     "fat_g": 0.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 25.0,
+     "carbohydrates_g": 0.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Onions, Red",
+    "nutrition": {
+     "weight_g": 7.0,
+     "calories_kcal": 3.0,
+     "fat_g": 0.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 0.0,
+     "carbohydrates_g": 1.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Pickles",
+    "nutrition": {
+     "weight_g": 10.0,
+     "calories_kcal": 1.0,
+     "fat_g": 0.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 115.0,
+     "carbohydrates_g": 0.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Spinach, Baby",
+    "nutrition": {
+     "weight_g": 7.0,
+     "calories_kcal": 2.0,
+     "fat_g": 0.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 5.0,
+     "carbohydrates_g": 0.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Tomatoes",
+    "nutrition": {
+     "weight_g": 35.0,
+     "calories_kcal": 5.0,
+     "fat_g": 0.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 0.0,
+     "carbohydrates_g": 1.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 1.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Crispy Onions (0.5 oz)",
+    "nutrition": {
+     "weight_g": 14.0,
+     "calories_kcal": 80.0,
+     "fat_g": 4.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 35.0,
+     "carbohydrates_g": 7.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 1.0,
+     "protein_g": 1.0
+    }
+   }
+  ],
+  "sauces": [
+   {
+    "name": "All Dressed Sauce",
+    "nutrition": {
+     "weight_g": 14.0,
+     "calories_kcal": 90.0,
+     "fat_g": 10.0,
+     "saturated_fat_g": 2.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 10.0,
+     "sodium_mg": 115.0,
+     "carbohydrates_g": 1.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Barrel Bourbon BBQ Sauce",
+    "nutrition": {
+     "weight_g": 14.0,
+     "calories_kcal": 20.0,
+     "fat_g": 0.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 150.0,
+     "carbohydrates_g": 5.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 5.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Chipotle Southwest Sauce",
+    "nutrition": {
+     "weight_g": 14.0,
+     "calories_kcal": 60.0,
+     "fat_g": 6.0,
+     "saturated_fat_g": 1.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 5.0,
+     "sodium_mg": 110.0,
+     "carbohydrates_g": 1.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Garlic Aioli Sauce",
+    "nutrition": {
+     "weight_g": 14.0,
+     "calories_kcal": 70.0,
+     "fat_g": 7.0,
+     "saturated_fat_g": 1.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 5.0,
+     "sodium_mg": 115.0,
+     "carbohydrates_g": 1.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 1.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "House Sandwich Sauce",
+    "nutrition": {
+     "weight_g": 14.0,
+     "calories_kcal": 70.0,
+     "fat_g": 8.0,
+     "saturated_fat_g": 1.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 125.0,
+     "carbohydrates_g": 1.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 1.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Hot Honey",
+    "nutrition": {
+     "weight_g": 14.0,
+     "calories_kcal": 30.0,
+     "fat_g": 0.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 115.0,
+     "carbohydrates_g": 8.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 7.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Mayonnaise",
+    "nutrition": {
+     "weight_g": 14.0,
+     "calories_kcal": 100.0,
+     "fat_g": 11.0,
+     "saturated_fat_g": 2.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 10.0,
+     "sodium_mg": 70.0,
+     "carbohydrates_g": 0.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Mustard, Yellow",
+    "nutrition": {
+     "weight_g": 14.0,
+     "calories_kcal": 10.0,
+     "fat_g": 1.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 170.0,
+     "carbohydrates_g": 1.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 0.0,
+     "protein_g": 1.0
+    }
+   },
+   {
+    "name": "Nashville-Style Hot Sauce",
+    "nutrition": {
+     "weight_g": 14.0,
+     "calories_kcal": 35.0,
+     "fat_g": 3.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 210.0,
+     "carbohydrates_g": 3.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 2.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Peppercorn Ranch Sauce",
+    "nutrition": {
+     "weight_g": 14.0,
+     "calories_kcal": 80.0,
+     "fat_g": 8.0,
+     "saturated_fat_g": 1.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 10.0,
+     "sodium_mg": 105.0,
+     "carbohydrates_g": 1.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 1.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Piri Piri Style Sauce",
+    "nutrition": {
+     "weight_g": 14.0,
+     "calories_kcal": 45.0,
+     "fat_g": 4.0,
+     "saturated_fat_g": 1.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 180.0,
+     "carbohydrates_g": 1.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 1.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Smoky Honey Mustard Sauce",
+    "nutrition": {
+     "weight_g": 14.0,
+     "calories_kcal": 45.0,
+     "fat_g": 5.0,
+     "saturated_fat_g": 1.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 5.0,
+     "sodium_mg": 115.0,
+     "carbohydrates_g": 3.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 3.0,
+     "protein_g": 0.0
+    }
+   },
+   {
+    "name": "Sweet Onion Teriyaki Sauce",
+    "nutrition": {
+     "weight_g": 14.0,
+     "calories_kcal": 35.0,
+     "fat_g": 0.0,
+     "saturated_fat_g": 0.0,
+     "trans_fat_g": 0.0,
+     "cholesterol_mg": 0.0,
+     "sodium_mg": 160.0,
+     "carbohydrates_g": 8.0,
+     "fibre_g": 0.0,
+     "total_sugars_g": 7.0,
+     "protein_g": 0.0
+    }
+   }
+  ]
+ }
+}

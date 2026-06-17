@@ -42,7 +42,10 @@ export const CHAINS: ChainDef[] = [
     tagline: 'Build your sub: bread, protein, cheese, veggies, sauces.',
     brand: '#008c15',
     icon: 'mdi:baguette',
-    status: 'soon',
+    status: 'live',
+    Component: lazy(() =>
+      import('./subway/SubwayCalculator').then((m) => ({ default: m.SubwayCalculator })),
+    ),
   },
   {
     slug: 'quesada',

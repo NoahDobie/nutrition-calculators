@@ -1,0 +1,289 @@
+{
+ "items": [
+  {
+   "name": "Chocolate Chunk Cookie",
+   "category": "Cookies & Desserts",
+   "subcategory": "Cookies & Desserts",
+   "serving": "1 serving",
+   "nutrition": {
+    "weight_g": 45.0,
+    "calories_kcal": 210.0,
+    "fat_g": 10.0,
+    "saturated_fat_g": 5.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 10.0,
+    "sodium_mg": 100.0,
+    "carbohydrates_g": 29.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 17.0,
+    "protein_g": 2.0
+   }
+  },
+  {
+   "name": "Double Chocolate Cookie",
+   "category": "Cookies & Desserts",
+   "subcategory": "Cookies & Desserts",
+   "serving": "1 serving",
+   "nutrition": {
+    "weight_g": 45.0,
+    "calories_kcal": 210.0,
+    "fat_g": 9.0,
+    "saturated_fat_g": 5.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 15.0,
+    "sodium_mg": 125.0,
+    "carbohydrates_g": 29.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 20.0,
+    "protein_g": 2.0
+   }
+  },
+  {
+   "name": "Chocolate Chip with M&M Candies Cookie",
+   "category": "Cookies & Desserts",
+   "subcategory": "Cookies & Desserts",
+   "serving": "1 serving",
+   "nutrition": {
+    "weight_g": 45.0,
+    "calories_kcal": 210.0,
+    "fat_g": 9.0,
+    "saturated_fat_g": 5.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 10.0,
+    "sodium_mg": 110.0,
+    "carbohydrates_g": 29.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 17.0,
+    "protein_g": 3.0
+   }
+  },
+  {
+   "name": "Oatmeal Raisin Cookie",
+   "category": "Cookies & Desserts",
+   "subcategory": "Cookies & Desserts",
+   "serving": "1 serving",
+   "nutrition": {
+    "weight_g": 45.0,
+    "calories_kcal": 200.0,
+    "fat_g": 8.0,
+    "saturated_fat_g": 4.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 15.0,
+    "sodium_mg": 110.0,
+    "carbohydrates_g": 30.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 16.0,
+    "protein_g": 3.0
+   }
+  },
+  {
+   "name": "White Chip Macadamia Nut Cookie",
+   "category": "Cookies & Desserts",
+   "subcategory": "Cookies & Desserts",
+   "serving": "1 serving",
+   "nutrition": {
+    "weight_g": 45.0,
+    "calories_kcal": 210.0,
+    "fat_g": 10.0,
+    "saturated_fat_g": 5.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 15.0,
+    "sodium_mg": 125.0,
+    "carbohydrates_g": 28.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 17.0,
+    "protein_g": 2.0
+   }
+  },
+  {
+   "name": "Mini Cookie, Chocolate Chunk",
+   "category": "Cookies & Desserts",
+   "subcategory": "Cookies & Desserts",
+   "serving": "1 serving",
+   "nutrition": {
+    "weight_g": 11.0,
+    "calories_kcal": 50.0,
+    "fat_g": 3.0,
+    "saturated_fat_g": 1.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 5.0,
+    "sodium_mg": 25.0,
+    "carbohydrates_g": 7.0,
+    "fibre_g": 0.0,
+    "total_sugars_g": 4.0,
+    "protein_g": 1.0
+   }
+  },
+  {
+   "name": "Mini Cookie, Chocolate Chip with M&M Candies Cookie",
+   "category": "Cookies & Desserts",
+   "subcategory": "Cookies & Desserts",
+   "serving": "1 serving",
+   "nutrition": {
+    "weight_g": 11.0,
+    "calories_kcal": 50.0,
+    "fat_g": 3.0,
+    "saturated_fat_g": 1.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 5.0,
+    "sodium_mg": 25.0,
+    "carbohydrates_g": 7.0,
+    "fibre_g": 0.0,
+    "total_sugars_g": 4.0,
+    "protein_g": 1.0
+   }
+  },
+  {
+   "name": "Mini Cookie, White Chip Macadamia Nut Cookie",
+   "category": "Cookies & Desserts",
+   "subcategory": "Cookies & Desserts",
+   "serving": "1 serving",
+   "nutrition": {
+    "weight_g": 11.0,
+    "calories_kcal": 50.0,
+    "fat_g": 3.0,
+    "saturated_fat_g": 2.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 5.0,
+    "sodium_mg": 30.0,
+    "carbohydrates_g": 7.0,
+    "fibre_g": 0.0,
+    "total_sugars_g": 4.0,
+    "protein_g": 1.0
+   }
+  },
+  {
+   "name": "Fiesta Beans & Corn Side Salad",
+   "category": "Sides",
+   "subcategory": "Sides",
+   "serving": "1 serving",
+   "nutrition": {
+    "weight_g": 134.0,
+    "calories_kcal": 140.0,
+    "fat_g": 5.0,
+    "saturated_fat_g": 0.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 0.0,
+    "sodium_mg": 370.0,
+    "carbohydrates_g": 19.0,
+    "fibre_g": 6.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 6.0
+   }
+  },
+  {
+   "name": "Potato Rings (4)",
+   "category": "Sides",
+   "subcategory": "Sides",
+   "serving": "1 serving",
+   "nutrition": {
+    "weight_g": 92.0,
+    "calories_kcal": 150.0,
+    "fat_g": 8.0,
+    "saturated_fat_g": 1.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 0.0,
+    "sodium_mg": 390.0,
+    "carbohydrates_g": 19.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 2.0
+   }
+  },
+  {
+   "name": "Beef & Barley",
+   "category": "Soups",
+   "subcategory": "Soups",
+   "serving": "1 serving",
+   "nutrition": {
+    "weight_g": 100.0,
+    "calories_kcal": 50.0,
+    "fat_g": 0.0,
+    "saturated_fat_g": 0.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 0.0,
+    "sodium_mg": 330.0,
+    "carbohydrates_g": 9.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 2.0
+   }
+  },
+  {
+   "name": "Chicken Noodle",
+   "category": "Soups",
+   "subcategory": "Soups",
+   "serving": "1 serving",
+   "nutrition": {
+    "weight_g": 227.0,
+    "calories_kcal": 80.0,
+    "fat_g": 2.0,
+    "saturated_fat_g": 0.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 23.0,
+    "sodium_mg": 1000.0,
+    "carbohydrates_g": 9.0,
+    "fibre_g": 0.0,
+    "total_sugars_g": 0.0,
+    "protein_g": 7.0
+   }
+  },
+  {
+   "name": "Cream of Broccoli",
+   "category": "Soups",
+   "subcategory": "Soups",
+   "serving": "1 serving",
+   "nutrition": {
+    "weight_g": 227.0,
+    "calories_kcal": 160.0,
+    "fat_g": 5.0,
+    "saturated_fat_g": 2.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 11.0,
+    "sodium_mg": 750.0,
+    "carbohydrates_g": 23.0,
+    "fibre_g": 0.0,
+    "total_sugars_g": 9.0,
+    "protein_g": 5.0
+   }
+  },
+  {
+   "name": "Cream of Mushroom",
+   "category": "Soups",
+   "subcategory": "Soups",
+   "serving": "1 serving",
+   "nutrition": {
+    "weight_g": 243.0,
+    "calories_kcal": 150.0,
+    "fat_g": 10.0,
+    "saturated_fat_g": 5.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 24.0,
+    "sodium_mg": 870.0,
+    "carbohydrates_g": 10.0,
+    "fibre_g": 0.0,
+    "total_sugars_g": 5.0,
+    "protein_g": 2.0
+   }
+  },
+  {
+   "name": "Loaded Baked Potato",
+   "category": "Soups",
+   "subcategory": "Soups",
+   "serving": "1 serving",
+   "nutrition": {
+    "weight_g": 227.0,
+    "calories_kcal": 180.0,
+    "fat_g": 6.0,
+    "saturated_fat_g": 3.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 23.0,
+    "sodium_mg": 790.0,
+    "carbohydrates_g": 27.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 7.0
+   }
+  }
+ ]
+}
