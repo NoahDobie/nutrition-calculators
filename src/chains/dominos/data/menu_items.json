@@ -1,0 +1,2084 @@
+{
+ "items": [
+  {
+   "name": "BBQ Chicken Bacon (Small)",
+   "category": "Feast Pizzas",
+   "subcategory": "BBQ Chicken Bacon",
+   "serving": "1/6 of pizza",
+   "nutrition": {
+    "weight_g": 95.0,
+    "calories_kcal": 230.0,
+    "calories_from_fat": 70.0,
+    "fat_g": 8.0,
+    "saturated_fat_g": 4.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 25.0,
+    "sodium_mg": 440.0,
+    "carbohydrates_g": 28.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 3.0,
+    "protein_g": 11.0
+   }
+  },
+  {
+   "name": "BBQ Chicken Bacon (Medium)",
+   "category": "Feast Pizzas",
+   "subcategory": "BBQ Chicken Bacon",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 101.0,
+    "calories_kcal": 240.0,
+    "calories_from_fat": 80.0,
+    "fat_g": 9.0,
+    "saturated_fat_g": 4.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 25.0,
+    "sodium_mg": 480.0,
+    "carbohydrates_g": 28.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 4.0,
+    "protein_g": 12.0
+   }
+  },
+  {
+   "name": "BBQ Chicken Bacon (Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "BBQ Chicken Bacon",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 137.0,
+    "calories_kcal": 330.0,
+    "calories_from_fat": 100.0,
+    "fat_g": 12.0,
+    "saturated_fat_g": 6.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 35.0,
+    "sodium_mg": 630.0,
+    "carbohydrates_g": 38.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 6.0,
+    "protein_g": 16.0
+   }
+  },
+  {
+   "name": "BBQ Chicken Bacon (X-Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "BBQ Chicken Bacon",
+   "serving": "1/10 of pizza",
+   "nutrition": {
+    "weight_g": 145.0,
+    "calories_kcal": 350.0,
+    "calories_from_fat": 110.0,
+    "fat_g": 13.0,
+    "saturated_fat_g": 6.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 35.0,
+    "sodium_mg": 680.0,
+    "carbohydrates_g": 40.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 6.0,
+    "protein_g": 17.0
+   }
+  },
+  {
+   "name": "Buffalo Chicken (Small)",
+   "category": "Feast Pizzas",
+   "subcategory": "Buffalo Chicken",
+   "serving": "1/3 of pizza",
+   "nutrition": {
+    "weight_g": 179.0,
+    "calories_kcal": 460.0,
+    "calories_from_fat": 150.0,
+    "fat_g": 17.0,
+    "saturated_fat_g": 9.0,
+    "trans_fat_g": 1.0,
+    "cholesterol_mg": 55.0,
+    "sodium_mg": 1230.0,
+    "carbohydrates_g": 52.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 3.0,
+    "protein_g": 24.0
+   }
+  },
+  {
+   "name": "Buffalo Chicken (Medium)",
+   "category": "Feast Pizzas",
+   "subcategory": "Buffalo Chicken",
+   "serving": "1/4 of pizza",
+   "nutrition": {
+    "weight_g": 186.0,
+    "calories_kcal": 490.0,
+    "calories_from_fat": 180.0,
+    "fat_g": 20.0,
+    "saturated_fat_g": 11.0,
+    "trans_fat_g": 1.0,
+    "cholesterol_mg": 65.0,
+    "sodium_mg": 1240.0,
+    "carbohydrates_g": 51.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 3.0,
+    "protein_g": 26.0
+   }
+  },
+  {
+   "name": "Buffalo Chicken (Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Buffalo Chicken",
+   "serving": "1/4 of pizza",
+   "nutrition": {
+    "weight_g": 247.0,
+    "calories_kcal": 640.0,
+    "calories_from_fat": 220.0,
+    "fat_g": 25.0,
+    "saturated_fat_g": 13.0,
+    "trans_fat_g": 1.5,
+    "cholesterol_mg": 80.0,
+    "sodium_mg": 1620.0,
+    "carbohydrates_g": 69.0,
+    "fibre_g": 3.0,
+    "total_sugars_g": 4.0,
+    "protein_g": 34.0
+   }
+  },
+  {
+   "name": "Buffalo Chicken (X-Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Buffalo Chicken",
+   "serving": "1/5 of pizza",
+   "nutrition": {
+    "weight_g": 257.0,
+    "calories_kcal": 670.0,
+    "calories_from_fat": 240.0,
+    "fat_g": 26.0,
+    "saturated_fat_g": 14.0,
+    "trans_fat_g": 1.5,
+    "cholesterol_mg": 85.0,
+    "sodium_mg": 1690.0,
+    "carbohydrates_g": 72.0,
+    "fibre_g": 3.0,
+    "total_sugars_g": 4.0,
+    "protein_g": 35.0
+   }
+  },
+  {
+   "name": "Canadian (Small)",
+   "category": "Feast Pizzas",
+   "subcategory": "Canadian",
+   "serving": "1/6 of pizza",
+   "nutrition": {
+    "weight_g": 102.0,
+    "calories_kcal": 230.0,
+    "calories_from_fat": 80.0,
+    "fat_g": 9.0,
+    "saturated_fat_g": 4.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 25.0,
+    "sodium_mg": 440.0,
+    "carbohydrates_g": 26.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 12.0
+   }
+  },
+  {
+   "name": "Canadian (Medium)",
+   "category": "Feast Pizzas",
+   "subcategory": "Canadian",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 106.0,
+    "calories_kcal": 240.0,
+    "calories_from_fat": 90.0,
+    "fat_g": 10.0,
+    "saturated_fat_g": 4.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 25.0,
+    "sodium_mg": 470.0,
+    "carbohydrates_g": 26.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 13.0
+   }
+  },
+  {
+   "name": "Canadian (Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Canadian",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 144.0,
+    "calories_kcal": 330.0,
+    "calories_from_fat": 110.0,
+    "fat_g": 13.0,
+    "saturated_fat_g": 6.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 35.0,
+    "sodium_mg": 630.0,
+    "carbohydrates_g": 35.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 17.0
+   }
+  },
+  {
+   "name": "Canadian (X-Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Canadian",
+   "serving": "1/10 of pizza",
+   "nutrition": {
+    "weight_g": 153.0,
+    "calories_kcal": 350.0,
+    "calories_from_fat": 130.0,
+    "fat_g": 14.0,
+    "saturated_fat_g": 7.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 40.0,
+    "sodium_mg": 690.0,
+    "carbohydrates_g": 37.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 18.0
+   }
+  },
+  {
+   "name": "Chicken Bacon Alfredo (Small)",
+   "category": "Feast Pizzas",
+   "subcategory": "Chicken Bacon Alfredo",
+   "serving": "1/6 of pizza",
+   "nutrition": {
+    "weight_g": 96.0,
+    "calories_kcal": 240.0,
+    "calories_from_fat": 90.0,
+    "fat_g": 10.0,
+    "saturated_fat_g": 5.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 30.0,
+    "sodium_mg": 380.0,
+    "carbohydrates_g": 25.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 12.0
+   }
+  },
+  {
+   "name": "Chicken Bacon Alfredo (Medium)",
+   "category": "Feast Pizzas",
+   "subcategory": "Chicken Bacon Alfredo",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 105.0,
+    "calories_kcal": 260.0,
+    "calories_from_fat": 100.0,
+    "fat_g": 12.0,
+    "saturated_fat_g": 6.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 35.0,
+    "sodium_mg": 430.0,
+    "carbohydrates_g": 25.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 13.0
+   }
+  },
+  {
+   "name": "Chicken Bacon Alfredo (Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Chicken Bacon Alfredo",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 140.0,
+    "calories_kcal": 340.0,
+    "calories_from_fat": 140.0,
+    "fat_g": 15.0,
+    "saturated_fat_g": 8.0,
+    "trans_fat_g": 1.0,
+    "cholesterol_mg": 45.0,
+    "sodium_mg": 560.0,
+    "carbohydrates_g": 34.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 17.0
+   }
+  },
+  {
+   "name": "Chicken Bacon Alfredo (X-Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Chicken Bacon Alfredo",
+   "serving": "1/10 of pizza",
+   "nutrition": {
+    "weight_g": 148.0,
+    "calories_kcal": 360.0,
+    "calories_from_fat": 150.0,
+    "fat_g": 16.0,
+    "saturated_fat_g": 9.0,
+    "trans_fat_g": 1.0,
+    "cholesterol_mg": 45.0,
+    "sodium_mg": 590.0,
+    "carbohydrates_g": 36.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 18.0
+   }
+  },
+  {
+   "name": "Chicken Bacon Ranch (Small)",
+   "category": "Feast Pizzas",
+   "subcategory": "Chicken Bacon Ranch",
+   "serving": "1/6 of pizza",
+   "nutrition": {
+    "weight_g": 91.0,
+    "calories_kcal": 240.0,
+    "calories_from_fat": 100.0,
+    "fat_g": 11.0,
+    "saturated_fat_g": 4.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 20.0,
+    "sodium_mg": 370.0,
+    "carbohydrates_g": 25.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 10.0
+   }
+  },
+  {
+   "name": "Chicken Bacon Ranch (Medium)",
+   "category": "Feast Pizzas",
+   "subcategory": "Chicken Bacon Ranch",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 98.0,
+    "calories_kcal": 260.0,
+    "calories_from_fat": 110.0,
+    "fat_g": 13.0,
+    "saturated_fat_g": 4.5,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 25.0,
+    "sodium_mg": 420.0,
+    "carbohydrates_g": 25.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 11.0
+   }
+  },
+  {
+   "name": "Chicken Bacon Ranch (Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Chicken Bacon Ranch",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 131.0,
+    "calories_kcal": 350.0,
+    "calories_from_fat": 150.0,
+    "fat_g": 17.0,
+    "saturated_fat_g": 6.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 30.0,
+    "sodium_mg": 550.0,
+    "carbohydrates_g": 33.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 14.0
+   }
+  },
+  {
+   "name": "Chicken Bacon Ranch (X-Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Chicken Bacon Ranch",
+   "serving": "1/10 of pizza",
+   "nutrition": {
+    "weight_g": 138.0,
+    "calories_kcal": 360.0,
+    "calories_from_fat": 160.0,
+    "fat_g": 18.0,
+    "saturated_fat_g": 6.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 35.0,
+    "sodium_mg": 580.0,
+    "carbohydrates_g": 35.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 15.0
+   }
+  },
+  {
+   "name": "Deluxe (Small)",
+   "category": "Feast Pizzas",
+   "subcategory": "Deluxe",
+   "serving": "1/6 of pizza",
+   "nutrition": {
+    "weight_g": 100.0,
+    "calories_kcal": 220.0,
+    "calories_from_fat": 70.0,
+    "fat_g": 8.0,
+    "saturated_fat_g": 3.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 20.0,
+    "sodium_mg": 350.0,
+    "carbohydrates_g": 26.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 10.0
+   }
+  },
+  {
+   "name": "Deluxe (Medium)",
+   "category": "Feast Pizzas",
+   "subcategory": "Deluxe",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 104.0,
+    "calories_kcal": 220.0,
+    "calories_from_fat": 70.0,
+    "fat_g": 8.0,
+    "saturated_fat_g": 3.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 20.0,
+    "sodium_mg": 370.0,
+    "carbohydrates_g": 26.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 10.0
+   }
+  },
+  {
+   "name": "Deluxe (Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Deluxe",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 144.0,
+    "calories_kcal": 300.0,
+    "calories_from_fat": 100.0,
+    "fat_g": 11.0,
+    "saturated_fat_g": 5.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 25.0,
+    "sodium_mg": 510.0,
+    "carbohydrates_g": 36.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 14.0
+   }
+  },
+  {
+   "name": "Deluxe (X-Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Deluxe",
+   "serving": "1/10 of pizza",
+   "nutrition": {
+    "weight_g": 152.0,
+    "calories_kcal": 320.0,
+    "calories_from_fat": 110.0,
+    "fat_g": 12.0,
+    "saturated_fat_g": 5.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 30.0,
+    "sodium_mg": 550.0,
+    "carbohydrates_g": 37.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 3.0,
+    "protein_g": 15.0
+   }
+  },
+  {
+   "name": "Donair Pizza* (Small)",
+   "category": "Feast Pizzas",
+   "subcategory": "Donair Pizza*",
+   "serving": "1/6 of pizza",
+   "nutrition": {
+    "weight_g": 104.0,
+    "calories_kcal": 220.0,
+    "calories_from_fat": 60.0,
+    "fat_g": 7.0,
+    "saturated_fat_g": 3.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 15.0,
+    "sodium_mg": 340.0,
+    "carbohydrates_g": 30.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 4.0,
+    "protein_g": 10.0
+   }
+  },
+  {
+   "name": "Donair Pizza* (Medium)",
+   "category": "Feast Pizzas",
+   "subcategory": "Donair Pizza*",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 107.0,
+    "calories_kcal": 230.0,
+    "calories_from_fat": 60.0,
+    "fat_g": 7.0,
+    "saturated_fat_g": 3.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 20.0,
+    "sodium_mg": 350.0,
+    "carbohydrates_g": 29.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 4.0,
+    "protein_g": 11.0
+   }
+  },
+  {
+   "name": "Donair Pizza* (Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Donair Pizza*",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 147.0,
+    "calories_kcal": 310.0,
+    "calories_from_fat": 90.0,
+    "fat_g": 10.0,
+    "saturated_fat_g": 4.5,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 25.0,
+    "sodium_mg": 480.0,
+    "carbohydrates_g": 40.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 6.0,
+    "protein_g": 15.0
+   }
+  },
+  {
+   "name": "Donair Pizza* (X-Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Donair Pizza*",
+   "serving": "1/10 of pizza",
+   "nutrition": {
+    "weight_g": 154.0,
+    "calories_kcal": 320.0,
+    "calories_from_fat": 90.0,
+    "fat_g": 10.0,
+    "saturated_fat_g": 4.5,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 25.0,
+    "sodium_mg": 490.0,
+    "carbohydrates_g": 42.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 7.0,
+    "protein_g": 15.0
+   }
+  },
+  {
+   "name": "ExtravaganZZa (Small)",
+   "category": "Feast Pizzas",
+   "subcategory": "ExtravaganZZa",
+   "serving": "1/6 of pizza",
+   "nutrition": {
+    "weight_g": 120.0,
+    "calories_kcal": 260.0,
+    "calories_from_fat": 100.0,
+    "fat_g": 11.0,
+    "saturated_fat_g": 5.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 30.0,
+    "sodium_mg": 510.0,
+    "carbohydrates_g": 27.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 13.0
+   }
+  },
+  {
+   "name": "ExtravaganZZa (Medium)",
+   "category": "Feast Pizzas",
+   "subcategory": "ExtravaganZZa",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 129.0,
+    "calories_kcal": 270.0,
+    "calories_from_fat": 110.0,
+    "fat_g": 12.0,
+    "saturated_fat_g": 5.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 35.0,
+    "sodium_mg": 550.0,
+    "carbohydrates_g": 27.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 15.0
+   }
+  },
+  {
+   "name": "ExtravaganZZa (Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "ExtravaganZZa",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 178.0,
+    "calories_kcal": 380.0,
+    "calories_from_fat": 150.0,
+    "fat_g": 16.0,
+    "saturated_fat_g": 7.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 45.0,
+    "sodium_mg": 760.0,
+    "carbohydrates_g": 37.0,
+    "fibre_g": 3.0,
+    "total_sugars_g": 3.0,
+    "protein_g": 20.0
+   }
+  },
+  {
+   "name": "ExtravaganZZa (X-Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "ExtravaganZZa",
+   "serving": "1/10 of pizza",
+   "nutrition": {
+    "weight_g": 189.0,
+    "calories_kcal": 400.0,
+    "calories_from_fat": 160.0,
+    "fat_g": 17.0,
+    "saturated_fat_g": 8.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 50.0,
+    "sodium_mg": 840.0,
+    "carbohydrates_g": 39.0,
+    "fibre_g": 3.0,
+    "total_sugars_g": 3.0,
+    "protein_g": 21.0
+   }
+  },
+  {
+   "name": "Hawaiian (Small)",
+   "category": "Feast Pizzas",
+   "subcategory": "Hawaiian",
+   "serving": "1/6 of pizza",
+   "nutrition": {
+    "weight_g": 105.0,
+    "calories_kcal": 220.0,
+    "calories_from_fat": 60.0,
+    "fat_g": 7.0,
+    "saturated_fat_g": 3.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 20.0,
+    "sodium_mg": 430.0,
+    "carbohydrates_g": 27.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 3.0,
+    "protein_g": 12.0
+   }
+  },
+  {
+   "name": "Hawaiian (Medium)",
+   "category": "Feast Pizzas",
+   "subcategory": "Hawaiian",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 110.0,
+    "calories_kcal": 230.0,
+    "calories_from_fat": 60.0,
+    "fat_g": 7.0,
+    "saturated_fat_g": 3.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 20.0,
+    "sodium_mg": 460.0,
+    "carbohydrates_g": 27.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 3.0,
+    "protein_g": 12.0
+   }
+  },
+  {
+   "name": "Hawaiian (Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Hawaiian",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 151.0,
+    "calories_kcal": 310.0,
+    "calories_from_fat": 90.0,
+    "fat_g": 10.0,
+    "saturated_fat_g": 5.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 30.0,
+    "sodium_mg": 630.0,
+    "carbohydrates_g": 37.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 4.0,
+    "protein_g": 17.0
+   }
+  },
+  {
+   "name": "Hawaiian (X-Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Hawaiian",
+   "serving": "1/10 of pizza",
+   "nutrition": {
+    "weight_g": 159.0,
+    "calories_kcal": 320.0,
+    "calories_from_fat": 90.0,
+    "fat_g": 10.0,
+    "saturated_fat_g": 5.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 30.0,
+    "sodium_mg": 680.0,
+    "carbohydrates_g": 39.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 4.0,
+    "protein_g": 18.0
+   }
+  },
+  {
+   "name": "MeatZZa (Small)",
+   "category": "Feast Pizzas",
+   "subcategory": "MeatZZa",
+   "serving": "1/6 of pizza",
+   "nutrition": {
+    "weight_g": 108.0,
+    "calories_kcal": 250.0,
+    "calories_from_fat": 90.0,
+    "fat_g": 10.0,
+    "saturated_fat_g": 4.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 30.0,
+    "sodium_mg": 510.0,
+    "carbohydrates_g": 26.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 13.0
+   }
+  },
+  {
+   "name": "MeatZZa (Medium)",
+   "category": "Feast Pizzas",
+   "subcategory": "MeatZZa",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 113.0,
+    "calories_kcal": 270.0,
+    "calories_from_fat": 100.0,
+    "fat_g": 11.0,
+    "saturated_fat_g": 5.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 35.0,
+    "sodium_mg": 550.0,
+    "carbohydrates_g": 26.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 14.0
+   }
+  },
+  {
+   "name": "MeatZZa (Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "MeatZZa",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 155.0,
+    "calories_kcal": 360.0,
+    "calories_from_fat": 140.0,
+    "fat_g": 16.0,
+    "saturated_fat_g": 7.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 45.0,
+    "sodium_mg": 760.0,
+    "carbohydrates_g": 36.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 20.0
+   }
+  },
+  {
+   "name": "MeatZZa (X-Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "MeatZZa",
+   "serving": "1/10 of pizza",
+   "nutrition": {
+    "weight_g": 165.0,
+    "calories_kcal": 390.0,
+    "calories_from_fat": 150.0,
+    "fat_g": 17.0,
+    "saturated_fat_g": 8.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 50.0,
+    "sodium_mg": 840.0,
+    "carbohydrates_g": 37.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 21.0
+   }
+  },
+  {
+   "name": "Pepperoni Feast (Small)",
+   "category": "Feast Pizzas",
+   "subcategory": "Pepperoni Feast",
+   "serving": "1/6 of pizza",
+   "nutrition": {
+    "weight_g": 97.0,
+    "calories_kcal": 240.0,
+    "calories_from_fat": 90.0,
+    "fat_g": 9.0,
+    "saturated_fat_g": 4.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 25.0,
+    "sodium_mg": 470.0,
+    "carbohydrates_g": 26.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 12.0
+   }
+  },
+  {
+   "name": "Pepperoni Feast (Medium)",
+   "category": "Feast Pizzas",
+   "subcategory": "Pepperoni Feast",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 100.0,
+    "calories_kcal": 250.0,
+    "calories_from_fat": 90.0,
+    "fat_g": 10.0,
+    "saturated_fat_g": 5.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 25.0,
+    "sodium_mg": 490.0,
+    "carbohydrates_g": 26.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 12.0
+   }
+  },
+  {
+   "name": "Pepperoni Feast (Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Pepperoni Feast",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 137.0,
+    "calories_kcal": 340.0,
+    "calories_from_fat": 120.0,
+    "fat_g": 14.0,
+    "saturated_fat_g": 7.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 35.0,
+    "sodium_mg": 670.0,
+    "carbohydrates_g": 35.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 17.0
+   }
+  },
+  {
+   "name": "Pepperoni Feast (X-Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Pepperoni Feast",
+   "serving": "1/10 of pizza",
+   "nutrition": {
+    "weight_g": 144.0,
+    "calories_kcal": 360.0,
+    "calories_from_fat": 130.0,
+    "fat_g": 15.0,
+    "saturated_fat_g": 7.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 35.0,
+    "sodium_mg": 720.0,
+    "carbohydrates_g": 37.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 18.0
+   }
+  },
+  {
+   "name": "Philly Steak (Small)",
+   "category": "Feast Pizzas",
+   "subcategory": "Philly Steak",
+   "serving": "1/6 of pizza",
+   "nutrition": {
+    "weight_g": 90.0,
+    "calories_kcal": 210.0,
+    "calories_from_fat": 70.0,
+    "fat_g": 7.0,
+    "saturated_fat_g": 3.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 20.0,
+    "sodium_mg": 470.0,
+    "carbohydrates_g": 26.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 10.0
+   }
+  },
+  {
+   "name": "Philly Steak (Medium)",
+   "category": "Feast Pizzas",
+   "subcategory": "Philly Steak",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 94.0,
+    "calories_kcal": 220.0,
+    "calories_from_fat": 70.0,
+    "fat_g": 8.0,
+    "saturated_fat_g": 4.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 25.0,
+    "sodium_mg": 500.0,
+    "carbohydrates_g": 25.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 11.0
+   }
+  },
+  {
+   "name": "Philly Steak (Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Philly Steak",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 128.0,
+    "calories_kcal": 290.0,
+    "calories_from_fat": 90.0,
+    "fat_g": 10.0,
+    "saturated_fat_g": 5.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 30.0,
+    "sodium_mg": 640.0,
+    "carbohydrates_g": 34.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 14.0
+   }
+  },
+  {
+   "name": "Philly Steak (X-Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Philly Steak",
+   "serving": "1/10 of pizza",
+   "nutrition": {
+    "weight_g": 135.0,
+    "calories_kcal": 310.0,
+    "calories_from_fat": 100.0,
+    "fat_g": 11.0,
+    "saturated_fat_g": 6.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 35.0,
+    "sodium_mg": 670.0,
+    "carbohydrates_g": 36.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 15.0
+   }
+  },
+  {
+   "name": "6 Cheese (Small)",
+   "category": "Feast Pizzas",
+   "subcategory": "6 Cheese",
+   "serving": "1/3 of pizza",
+   "nutrition": {
+    "weight_g": 170.0,
+    "calories_kcal": 440.0,
+    "calories_from_fat": 140.0,
+    "fat_g": 16.0,
+    "saturated_fat_g": 8.0,
+    "trans_fat_g": 1.0,
+    "cholesterol_mg": 40.0,
+    "sodium_mg": 790.0,
+    "carbohydrates_g": 52.0,
+    "fibre_g": 3.0,
+    "total_sugars_g": 3.0,
+    "protein_g": 21.0
+   }
+  },
+  {
+   "name": "6 Cheese (Medium)",
+   "category": "Feast Pizzas",
+   "subcategory": "6 Cheese",
+   "serving": "1/4 of pizza",
+   "nutrition": {
+    "weight_g": 183.0,
+    "calories_kcal": 490.0,
+    "calories_from_fat": 180.0,
+    "fat_g": 20.0,
+    "saturated_fat_g": 11.0,
+    "trans_fat_g": 1.0,
+    "cholesterol_mg": 55.0,
+    "sodium_mg": 890.0,
+    "carbohydrates_g": 51.0,
+    "fibre_g": 3.0,
+    "total_sugars_g": 3.0,
+    "protein_g": 25.0
+   }
+  },
+  {
+   "name": "6 Cheese (Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "6 Cheese",
+   "serving": "1/4 of pizza",
+   "nutrition": {
+    "weight_g": 248.0,
+    "calories_kcal": 650.0,
+    "calories_from_fat": 230.0,
+    "fat_g": 26.0,
+    "saturated_fat_g": 14.0,
+    "trans_fat_g": 1.5,
+    "cholesterol_mg": 70.0,
+    "sodium_mg": 1200.0,
+    "carbohydrates_g": 70.0,
+    "fibre_g": 4.0,
+    "total_sugars_g": 5.0,
+    "protein_g": 33.0
+   }
+  },
+  {
+   "name": "6 Cheese (X-Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "6 Cheese",
+   "serving": "1/5 of pizza",
+   "nutrition": {
+    "weight_g": 262.0,
+    "calories_kcal": 690.0,
+    "calories_from_fat": 250.0,
+    "fat_g": 27.0,
+    "saturated_fat_g": 15.0,
+    "trans_fat_g": 1.5,
+    "cholesterol_mg": 75.0,
+    "sodium_mg": 1260.0,
+    "carbohydrates_g": 73.0,
+    "fibre_g": 5.0,
+    "total_sugars_g": 5.0,
+    "protein_g": 35.0
+   }
+  },
+  {
+   "name": "Spinach & Feta (Small)",
+   "category": "Feast Pizzas",
+   "subcategory": "Spinach & Feta",
+   "serving": "1/6 of pizza",
+   "nutrition": {
+    "weight_g": 85.0,
+    "calories_kcal": 210.0,
+    "calories_from_fat": 70.0,
+    "fat_g": 7.0,
+    "saturated_fat_g": 4.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 20.0,
+    "sodium_mg": 340.0,
+    "carbohydrates_g": 25.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 10.0
+   }
+  },
+  {
+   "name": "Spinach & Feta (Medium)",
+   "category": "Feast Pizzas",
+   "subcategory": "Spinach & Feta",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 88.0,
+    "calories_kcal": 220.0,
+    "calories_from_fat": 70.0,
+    "fat_g": 8.0,
+    "saturated_fat_g": 4.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 20.0,
+    "sodium_mg": 370.0,
+    "carbohydrates_g": 25.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 10.0
+   }
+  },
+  {
+   "name": "Spinach & Feta (Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Spinach & Feta",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 121.0,
+    "calories_kcal": 300.0,
+    "calories_from_fat": 100.0,
+    "fat_g": 11.0,
+    "saturated_fat_g": 6.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 30.0,
+    "sodium_mg": 500.0,
+    "carbohydrates_g": 34.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 14.0
+   }
+  },
+  {
+   "name": "Spinach & Feta (X-Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Spinach & Feta",
+   "serving": "1/10 of pizza",
+   "nutrition": {
+    "weight_g": 126.0,
+    "calories_kcal": 310.0,
+    "calories_from_fat": 100.0,
+    "fat_g": 12.0,
+    "saturated_fat_g": 6.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 30.0,
+    "sodium_mg": 510.0,
+    "carbohydrates_g": 35.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 15.0
+   }
+  },
+  {
+   "name": "Pacific Veggie (Small)",
+   "category": "Feast Pizzas",
+   "subcategory": "Pacific Veggie",
+   "serving": "1/6 of pizza",
+   "nutrition": {
+    "weight_g": 112.0,
+    "calories_kcal": 200.0,
+    "calories_from_fat": 60.0,
+    "fat_g": 6.0,
+    "saturated_fat_g": 3.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 15.0,
+    "sodium_mg": 360.0,
+    "carbohydrates_g": 27.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 10.0
+   }
+  },
+  {
+   "name": "Pacific Veggie (Medium)",
+   "category": "Feast Pizzas",
+   "subcategory": "Pacific Veggie",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 115.0,
+    "calories_kcal": 210.0,
+    "calories_from_fat": 60.0,
+    "fat_g": 7.0,
+    "saturated_fat_g": 3.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 15.0,
+    "sodium_mg": 380.0,
+    "carbohydrates_g": 27.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 10.0
+   }
+  },
+  {
+   "name": "Pacific Veggie (Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Pacific Veggie",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 157.0,
+    "calories_kcal": 280.0,
+    "calories_from_fat": 80.0,
+    "fat_g": 9.0,
+    "saturated_fat_g": 4.5,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 25.0,
+    "sodium_mg": 520.0,
+    "carbohydrates_g": 36.0,
+    "fibre_g": 3.0,
+    "total_sugars_g": 3.0,
+    "protein_g": 14.0
+   }
+  },
+  {
+   "name": "Pacific Veggie (X-Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Pacific Veggie",
+   "serving": "1/10 of pizza",
+   "nutrition": {
+    "weight_g": 163.0,
+    "calories_kcal": 300.0,
+    "calories_from_fat": 90.0,
+    "fat_g": 10.0,
+    "saturated_fat_g": 4.5,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 25.0,
+    "sodium_mg": 540.0,
+    "carbohydrates_g": 38.0,
+    "fibre_g": 3.0,
+    "total_sugars_g": 3.0,
+    "protein_g": 14.0
+   }
+  },
+  {
+   "name": "Veggie (Small)",
+   "category": "Feast Pizzas",
+   "subcategory": "Veggie",
+   "serving": "1/6 of pizza",
+   "nutrition": {
+    "weight_g": 104.0,
+    "calories_kcal": 190.0,
+    "calories_from_fat": 50.0,
+    "fat_g": 5.0,
+    "saturated_fat_g": 2.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 10.0,
+    "sodium_mg": 280.0,
+    "carbohydrates_g": 27.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 9.0
+   }
+  },
+  {
+   "name": "Veggie (Medium)",
+   "category": "Feast Pizzas",
+   "subcategory": "Veggie",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 108.0,
+    "calories_kcal": 190.0,
+    "calories_from_fat": 50.0,
+    "fat_g": 6.0,
+    "saturated_fat_g": 2.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 10.0,
+    "sodium_mg": 290.0,
+    "carbohydrates_g": 26.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 9.0
+   }
+  },
+  {
+   "name": "Veggie (Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Veggie",
+   "serving": "1/8 of pizza",
+   "nutrition": {
+    "weight_g": 147.0,
+    "calories_kcal": 270.0,
+    "calories_from_fat": 70.0,
+    "fat_g": 8.0,
+    "saturated_fat_g": 3.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 15.0,
+    "sodium_mg": 400.0,
+    "carbohydrates_g": 36.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 3.0,
+    "protein_g": 12.0
+   }
+  },
+  {
+   "name": "Veggie (X-Large)",
+   "category": "Feast Pizzas",
+   "subcategory": "Veggie",
+   "serving": "1/10 of pizza",
+   "nutrition": {
+    "weight_g": 153.0,
+    "calories_kcal": 280.0,
+    "calories_from_fat": 70.0,
+    "fat_g": 8.0,
+    "saturated_fat_g": 3.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 15.0,
+    "sodium_mg": 410.0,
+    "carbohydrates_g": 37.0,
+    "fibre_g": 3.0,
+    "total_sugars_g": 3.0,
+    "protein_g": 13.0
+   }
+  },
+  {
+   "name": "Breadsticks",
+   "category": "Breads",
+   "subcategory": "Breads",
+   "serving": "2 pieces",
+   "nutrition": {
+    "weight_g": 49.0,
+    "calories_kcal": 170.0,
+    "calories_from_fat": 70.0,
+    "fat_g": 8.0,
+    "saturated_fat_g": 1.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 0.0,
+    "sodium_mg": 180.0,
+    "carbohydrates_g": 20.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 4.0
+   }
+  },
+  {
+   "name": "Cheesy Bread",
+   "category": "Breads",
+   "subcategory": "Breads",
+   "serving": "2 pieces",
+   "nutrition": {
+    "weight_g": 63.0,
+    "calories_kcal": 220.0,
+    "calories_from_fat": 110.0,
+    "fat_g": 12.0,
+    "saturated_fat_g": 4.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 15.0,
+    "sodium_mg": 280.0,
+    "carbohydrates_g": 21.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 7.0
+   }
+  },
+  {
+   "name": "Cinna Stix",
+   "category": "Breads",
+   "subcategory": "Breads",
+   "serving": "2 pieces",
+   "nutrition": {
+    "weight_g": 62.0,
+    "calories_kcal": 210.0,
+    "calories_from_fat": 80.0,
+    "fat_g": 9.0,
+    "saturated_fat_g": 2.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 0.0,
+    "sodium_mg": 160.0,
+    "carbohydrates_g": 28.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 5.0,
+    "protein_g": 4.0
+   }
+  },
+  {
+   "name": "16 pc order Cinna Bites",
+   "category": "Breads",
+   "subcategory": "Breads",
+   "serving": "4 pieces",
+   "nutrition": {
+    "weight_g": 69.0,
+    "calories_kcal": 240.0,
+    "calories_from_fat": 90.0,
+    "fat_g": 10.0,
+    "saturated_fat_g": 4.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 0.0,
+    "sodium_mg": 160.0,
+    "carbohydrates_g": 33.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 8.0,
+    "protein_g": 5.0
+   }
+  },
+  {
+   "name": "32 pc order Cinna Bites",
+   "category": "Breads",
+   "subcategory": "Breads",
+   "serving": "4 pieces",
+   "nutrition": {
+    "weight_g": 69.0,
+    "calories_kcal": 240.0,
+    "calories_from_fat": 90.0,
+    "fat_g": 10.0,
+    "saturated_fat_g": 4.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 0.0,
+    "sodium_mg": 160.0,
+    "carbohydrates_g": 33.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 8.0,
+    "protein_g": 5.0
+   }
+  },
+  {
+   "name": "10\" Cheesy Garlic Fingers",
+   "category": "Breads",
+   "subcategory": "Breads",
+   "serving": "2 pieces",
+   "nutrition": {
+    "weight_g": 48.0,
+    "calories_kcal": 140.0,
+    "calories_from_fat": 50.0,
+    "fat_g": 5.0,
+    "saturated_fat_g": 2.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 10.0,
+    "sodium_mg": 200.0,
+    "carbohydrates_g": 17.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 6.0
+   }
+  },
+  {
+   "name": "12\" Cheesy Garlic Fingers",
+   "category": "Breads",
+   "subcategory": "Breads",
+   "serving": "2 pieces",
+   "nutrition": {
+    "weight_g": 65.0,
+    "calories_kcal": 190.0,
+    "calories_from_fat": 70.0,
+    "fat_g": 8.0,
+    "saturated_fat_g": 3.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 10.0,
+    "sodium_mg": 290.0,
+    "carbohydrates_g": 21.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 8.0
+   }
+  },
+  {
+   "name": "14\" Cheesy Garlic Fingers",
+   "category": "Breads",
+   "subcategory": "Breads",
+   "serving": "2 pieces",
+   "nutrition": {
+    "weight_g": 62.0,
+    "calories_kcal": 180.0,
+    "calories_from_fat": 70.0,
+    "fat_g": 8.0,
+    "saturated_fat_g": 3.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 10.0,
+    "sodium_mg": 280.0,
+    "carbohydrates_g": 20.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 8.0
+   }
+  },
+  {
+   "name": "10\" Bacon Garlic Fingers",
+   "category": "Breads",
+   "subcategory": "Breads",
+   "serving": "2 pieces",
+   "nutrition": {
+    "weight_g": 53.0,
+    "calories_kcal": 160.0,
+    "calories_from_fat": 60.0,
+    "fat_g": 7.0,
+    "saturated_fat_g": 2.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 15.0,
+    "sodium_mg": 300.0,
+    "carbohydrates_g": 17.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 8.0
+   }
+  },
+  {
+   "name": "12\" Bacon Garlic Fingers",
+   "category": "Breads",
+   "subcategory": "Breads",
+   "serving": "2 pieces",
+   "nutrition": {
+    "weight_g": 72.0,
+    "calories_kcal": 220.0,
+    "calories_from_fat": 90.0,
+    "fat_g": 10.0,
+    "saturated_fat_g": 4.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 20.0,
+    "sodium_mg": 420.0,
+    "carbohydrates_g": 21.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 11.0
+   }
+  },
+  {
+   "name": "14\" Bacon Garlic Fingers",
+   "category": "Breads",
+   "subcategory": "Breads",
+   "serving": "2 pieces",
+   "nutrition": {
+    "weight_g": 69.0,
+    "calories_kcal": 210.0,
+    "calories_from_fat": 90.0,
+    "fat_g": 10.0,
+    "saturated_fat_g": 4.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 20.0,
+    "sodium_mg": 410.0,
+    "carbohydrates_g": 21.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 10.0
+   }
+  },
+  {
+   "name": "16\" Bacon Garlic Fingers",
+   "category": "Breads",
+   "subcategory": "Breads",
+   "serving": "2 pieces",
+   "nutrition": {
+    "weight_g": 92.0,
+    "calories_kcal": 290.0,
+    "calories_from_fat": 120.0,
+    "fat_g": 13.0,
+    "saturated_fat_g": 5.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 25.0,
+    "sodium_mg": 560.0,
+    "carbohydrates_g": 27.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 14.0
+   }
+  },
+  {
+   "name": "Stuffed Cheesy Bread",
+   "category": "Breads",
+   "subcategory": "Breads",
+   "serving": "1 piece",
+   "nutrition": {
+    "weight_g": 50.0,
+    "calories_kcal": 160.0,
+    "calories_from_fat": 60.0,
+    "fat_g": 7.0,
+    "saturated_fat_g": 3.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 15.0,
+    "sodium_mg": 230.0,
+    "carbohydrates_g": 15.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 7.0
+   }
+  },
+  {
+   "name": "Bacon & Jalape\u00f1o Stuffed Cheesy Bread",
+   "category": "Breads",
+   "subcategory": "Breads",
+   "serving": "1 piece",
+   "nutrition": {
+    "weight_g": 53.0,
+    "calories_kcal": 160.0,
+    "calories_from_fat": 70.0,
+    "fat_g": 8.0,
+    "saturated_fat_g": 3.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 15.0,
+    "sodium_mg": 320.0,
+    "carbohydrates_g": 15.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 8.0
+   }
+  },
+  {
+   "name": "Pepperoni Stuffed Cheesy Bread",
+   "category": "Breads",
+   "subcategory": "Breads",
+   "serving": "1 piece",
+   "nutrition": {
+    "weight_g": 52.0,
+    "calories_kcal": 170.0,
+    "calories_from_fat": 70.0,
+    "fat_g": 8.0,
+    "saturated_fat_g": 3.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 15.0,
+    "sodium_mg": 300.0,
+    "carbohydrates_g": 15.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 8.0
+   }
+  },
+  {
+   "name": "Philly Steak Stuffed Cheesy Bread",
+   "category": "Breads",
+   "subcategory": "Breads",
+   "serving": "1 piece",
+   "nutrition": {
+    "weight_g": 56.0,
+    "calories_kcal": 160.0,
+    "calories_from_fat": 70.0,
+    "fat_g": 7.0,
+    "saturated_fat_g": 3.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 15.0,
+    "sodium_mg": 300.0,
+    "carbohydrates_g": 16.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 7.0
+   }
+  },
+  {
+   "name": "Spinach & Feta Stuffed Cheesy Bread",
+   "category": "Breads",
+   "subcategory": "Breads",
+   "serving": "1 piece",
+   "nutrition": {
+    "weight_g": 52.0,
+    "calories_kcal": 160.0,
+    "calories_from_fat": 70.0,
+    "fat_g": 7.0,
+    "saturated_fat_g": 3.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 15.0,
+    "sodium_mg": 260.0,
+    "carbohydrates_g": 15.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 7.0
+   }
+  },
+  {
+   "name": "Boneless Chicken",
+   "category": "Chicken",
+   "subcategory": "Chicken",
+   "serving": "2 pieces",
+   "nutrition": {
+    "weight_g": 50.0,
+    "calories_kcal": 90.0,
+    "calories_from_fat": 25.0,
+    "fat_g": 3.0,
+    "saturated_fat_g": 0.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 20.0,
+    "sodium_mg": 450.0,
+    "carbohydrates_g": 8.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 0.0,
+    "protein_g": 9.0
+   }
+  },
+  {
+   "name": "BBQ Wings",
+   "category": "Chicken",
+   "subcategory": "Chicken",
+   "serving": "2 pieces",
+   "nutrition": {
+    "weight_g": 45.0,
+    "calories_kcal": 90.0,
+    "calories_from_fat": 45.0,
+    "fat_g": 5.0,
+    "saturated_fat_g": 1.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 35.0,
+    "sodium_mg": 390.0,
+    "carbohydrates_g": 4.0,
+    "fibre_g": 0.0,
+    "total_sugars_g": 3.0,
+    "protein_g": 7.0
+   }
+  },
+  {
+   "name": "Hot Wings",
+   "category": "Chicken",
+   "subcategory": "Chicken",
+   "serving": "2 pieces",
+   "nutrition": {
+    "weight_g": 56.0,
+    "calories_kcal": 90.0,
+    "calories_from_fat": 45.0,
+    "fat_g": 5.0,
+    "saturated_fat_g": 1.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 35.0,
+    "sodium_mg": 770.0,
+    "carbohydrates_g": 4.0,
+    "fibre_g": 0.0,
+    "total_sugars_g": 3.0,
+    "protein_g": 7.0
+   }
+  },
+  {
+   "name": "Honey Garlic Wings",
+   "category": "Chicken",
+   "subcategory": "Chicken",
+   "serving": "2 pieces",
+   "nutrition": {
+    "weight_g": 56.0,
+    "calories_kcal": 120.0,
+    "calories_from_fat": 45.0,
+    "fat_g": 5.0,
+    "saturated_fat_g": 1.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 35.0,
+    "sodium_mg": 410.0,
+    "carbohydrates_g": 11.0,
+    "fibre_g": 0.0,
+    "total_sugars_g": 7.0,
+    "protein_g": 7.0
+   }
+  },
+  {
+   "name": "Specialty Chicken Classic Hot Buffalo",
+   "category": "Chicken",
+   "subcategory": "Chicken",
+   "serving": "4 pieces",
+   "nutrition": {
+    "weight_g": 85.0,
+    "calories_kcal": 170.0,
+    "calories_from_fat": 80.0,
+    "fat_g": 9.0,
+    "saturated_fat_g": 3.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 35.0,
+    "sodium_mg": 1090.0,
+    "carbohydrates_g": 9.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 13.0
+   }
+  },
+  {
+   "name": "Specialty Chicken Crispy Bacon & Tomato",
+   "category": "Chicken",
+   "subcategory": "Chicken",
+   "serving": "4 pieces",
+   "nutrition": {
+    "weight_g": 90.0,
+    "calories_kcal": 230.0,
+    "calories_from_fat": 140.0,
+    "fat_g": 15.0,
+    "saturated_fat_g": 4.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 45.0,
+    "sodium_mg": 810.0,
+    "carbohydrates_g": 10.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 15.0
+   }
+  },
+  {
+   "name": "Specialty Chicken Spicy Jalape\u00f1o & Pineapple",
+   "category": "Chicken",
+   "subcategory": "Chicken",
+   "serving": "4 pieces",
+   "nutrition": {
+    "weight_g": 90.0,
+    "calories_kcal": 170.0,
+    "calories_from_fat": 60.0,
+    "fat_g": 7.0,
+    "saturated_fat_g": 3.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 30.0,
+    "sodium_mg": 650.0,
+    "carbohydrates_g": 16.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 7.0,
+    "protein_g": 12.0
+   }
+  },
+  {
+   "name": "Specialty Chicken Sweet BBQ Bacon",
+   "category": "Chicken",
+   "subcategory": "Chicken",
+   "serving": "4 pieces",
+   "nutrition": {
+    "weight_g": 86.0,
+    "calories_kcal": 190.0,
+    "calories_from_fat": 80.0,
+    "fat_g": 9.0,
+    "saturated_fat_g": 3.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 40.0,
+    "sodium_mg": 860.0,
+    "carbohydrates_g": 14.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 5.0,
+    "protein_g": 15.0
+   }
+  },
+  {
+   "name": "Specialty Chicken Chicken Parm",
+   "category": "Chicken",
+   "subcategory": "Chicken",
+   "serving": "4 pieces",
+   "nutrition": {
+    "weight_g": 82.0,
+    "calories_kcal": 150.0,
+    "calories_from_fat": 60.0,
+    "fat_g": 6.0,
+    "saturated_fat_g": 2.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 30.0,
+    "sodium_mg": 700.0,
+    "carbohydrates_g": 10.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 13.0
+   }
+  },
+  {
+   "name": "Chicken Alfredo",
+   "category": "Pasta",
+   "subcategory": "Pasta",
+   "serving": "1 Dish",
+   "nutrition": {
+    "weight_g": 326.0,
+    "calories_kcal": 570.0,
+    "calories_from_fat": 220.0,
+    "fat_g": 24.0,
+    "saturated_fat_g": 14.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 100.0,
+    "sodium_mg": 950.0,
+    "carbohydrates_g": 58.0,
+    "fibre_g": 3.0,
+    "total_sugars_g": 4.0,
+    "protein_g": 25.0
+   }
+  },
+  {
+   "name": "Chicken Carbonara",
+   "category": "Pasta",
+   "subcategory": "Pasta",
+   "serving": "1 Dish",
+   "nutrition": {
+    "weight_g": 369.0,
+    "calories_kcal": 640.0,
+    "calories_from_fat": 250.0,
+    "fat_g": 28.0,
+    "saturated_fat_g": 16.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 115.0,
+    "sodium_mg": 1200.0,
+    "carbohydrates_g": 61.0,
+    "fibre_g": 3.0,
+    "total_sugars_g": 5.0,
+    "protein_g": 30.0
+   }
+  },
+  {
+   "name": "Italian Sausage Marinara",
+   "category": "Pasta",
+   "subcategory": "Pasta",
+   "serving": "1 Dish",
+   "nutrition": {
+    "weight_g": 383.0,
+    "calories_kcal": 630.0,
+    "calories_from_fat": 240.0,
+    "fat_g": 26.0,
+    "saturated_fat_g": 12.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 80.0,
+    "sodium_mg": 1780.0,
+    "carbohydrates_g": 67.0,
+    "fibre_g": 5.0,
+    "total_sugars_g": 11.0,
+    "protein_g": 30.0
+   }
+  },
+  {
+   "name": "Pasta Primavera",
+   "category": "Pasta",
+   "subcategory": "Pasta",
+   "serving": "1 Dish",
+   "nutrition": {
+    "weight_g": 360.0,
+    "calories_kcal": 520.0,
+    "calories_from_fat": 200.0,
+    "fat_g": 23.0,
+    "saturated_fat_g": 14.0,
+    "trans_fat_g": 0.5,
+    "cholesterol_mg": 65.0,
+    "sodium_mg": 750.0,
+    "carbohydrates_g": 61.0,
+    "fibre_g": 4.0,
+    "total_sugars_g": 6.0,
+    "protein_g": 15.0
+   }
+  },
+  {
+   "name": "Creamy 5-Cheese Penne",
+   "category": "Pasta",
+   "subcategory": "Pasta",
+   "serving": "1 Dish",
+   "nutrition": {
+    "weight_g": 360.0,
+    "calories_kcal": 820.0,
+    "calories_from_fat": 420.0,
+    "fat_g": 47.0,
+    "saturated_fat_g": 29.0,
+    "trans_fat_g": 1.5,
+    "cholesterol_mg": 145.0,
+    "sodium_mg": 1640.0,
+    "carbohydrates_g": 60.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 4.0,
+    "protein_g": 35.0
+   }
+  },
+  {
+   "name": "Hot Buffalo 5-Cheese Penne",
+   "category": "Pasta",
+   "subcategory": "Pasta",
+   "serving": "1 Dish",
+   "nutrition": {
+    "weight_g": 374.0,
+    "calories_kcal": 820.0,
+    "calories_from_fat": 420.0,
+    "fat_g": 47.0,
+    "saturated_fat_g": 29.0,
+    "trans_fat_g": 1.5,
+    "cholesterol_mg": 145.0,
+    "sodium_mg": 2140.0,
+    "carbohydrates_g": 60.0,
+    "fibre_g": 3.0,
+    "total_sugars_g": 4.0,
+    "protein_g": 35.0
+   }
+  },
+  {
+   "name": "Chocolate Lava Crunch Cake",
+   "category": "Desserts",
+   "subcategory": "Desserts",
+   "serving": "1 cake",
+   "nutrition": {
+    "weight_g": 85.0,
+    "calories_kcal": 350.0,
+    "calories_from_fat": 160.0,
+    "fat_g": 17.0,
+    "saturated_fat_g": 10.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 60.0,
+    "sodium_mg": 180.0,
+    "carbohydrates_g": 47.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 30.0,
+    "protein_g": 4.0
+   }
+  },
+  {
+   "name": "Marbled Cookie Brownie",
+   "category": "Desserts",
+   "subcategory": "Desserts",
+   "serving": "",
+   "nutrition": {
+    "weight_g": 42.0,
+    "calories_kcal": 200.0,
+    "calories_from_fat": 90.0,
+    "fat_g": 10.0,
+    "saturated_fat_g": 4.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 20.0,
+    "sodium_mg": 120.0,
+    "carbohydrates_g": 25.0,
+    "fibre_g": 1.0,
+    "total_sugars_g": 18.0,
+    "protein_g": 2.0
+   }
+  },
+  {
+   "name": "Crushed Red Pepper",
+   "category": "Other",
+   "subcategory": "Other",
+   "serving": "1 packet",
+   "nutrition": {
+    "weight_g": 1.0,
+    "calories_kcal": 0.0,
+    "calories_from_fat": 0.0,
+    "fat_g": 0.0,
+    "saturated_fat_g": 0.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 0.0,
+    "sodium_mg": 0.0,
+    "carbohydrates_g": 0.0,
+    "fibre_g": 0.0,
+    "total_sugars_g": 0.0,
+    "protein_g": 0.0
+   }
+  },
+  {
+   "name": "Tomato Ketchup",
+   "category": "Other",
+   "subcategory": "Other",
+   "serving": "1 packet",
+   "nutrition": {
+    "weight_g": 8.0,
+    "calories_kcal": 10.0,
+    "calories_from_fat": 0.0,
+    "fat_g": 0.0,
+    "saturated_fat_g": 0.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 0.0,
+    "sodium_mg": 80.0,
+    "carbohydrates_g": 2.0,
+    "fibre_g": 0.0,
+    "total_sugars_g": 2.0,
+    "protein_g": 0.1
+   }
+  },
+  {
+   "name": "Large French Fries",
+   "category": "Other",
+   "subcategory": "Other",
+   "serving": "1/4 order",
+   "nutrition": {
+    "weight_g": 100.0,
+    "calories_kcal": 170.0,
+    "calories_from_fat": 70.0,
+    "fat_g": 7.0,
+    "saturated_fat_g": 0.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 0.0,
+    "sodium_mg": 510.0,
+    "carbohydrates_g": 25.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 0.0,
+    "protein_g": 2.0
+   }
+  },
+  {
+   "name": "Family French Fries",
+   "category": "Other",
+   "subcategory": "Other",
+   "serving": "1/6 order",
+   "nutrition": {
+    "weight_g": 108.0,
+    "calories_kcal": 180.0,
+    "calories_from_fat": 70.0,
+    "fat_g": 8.0,
+    "saturated_fat_g": 0.5,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 0.0,
+    "sodium_mg": 550.0,
+    "carbohydrates_g": 27.0,
+    "fibre_g": 2.0,
+    "total_sugars_g": 0.0,
+    "protein_g": 3.0
+   }
+  },
+  {
+   "name": "Poutine",
+   "category": "Other",
+   "subcategory": "Other",
+   "serving": "",
+   "nutrition": {
+    "weight_g": 305.0,
+    "calories_kcal": 440.0,
+    "calories_from_fat": 210.0,
+    "fat_g": 23.0,
+    "saturated_fat_g": 8.0,
+    "trans_fat_g": 1.0,
+    "cholesterol_mg": 40.0,
+    "sodium_mg": 1760.0,
+    "carbohydrates_g": 45.0,
+    "fibre_g": 3.0,
+    "total_sugars_g": 1.0,
+    "protein_g": 14.0
+   }
+  },
+  {
+   "name": "Saputo Butter Cup",
+   "category": "Other",
+   "subcategory": "Other",
+   "serving": "",
+   "nutrition": {
+    "weight_g": 7.0,
+    "calories_kcal": 50.0,
+    "calories_from_fat": 45.0,
+    "fat_g": 5.0,
+    "saturated_fat_g": 4.0,
+    "trans_fat_g": 0.0,
+    "cholesterol_mg": 15.0,
+    "sodium_mg": 45.0,
+    "carbohydrates_g": 0.0,
+    "fibre_g": 0.0,
+    "total_sugars_g": 0.0,
+    "protein_g": 0.0
+   }
+  }
+ ]
+}

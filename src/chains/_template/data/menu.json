@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": "sample-1",
+      "name": "Sample Sandwich",
+      "category": "Mains",
+      "subcategory": "Sandwiches",
+      "serving": "1 sandwich",
+      "nutrition": { "calories_kcal": 420, "fat_g": 16, "saturated_fat_g": 6, "trans_fat_g": 0, "cholesterol_mg": 45, "sodium_mg": 980, "carbohydrates_g": 44, "fibre_g": 3, "total_sugars_g": 6, "protein_g": 24 }
+    },
+    {
+      "id": "sample-2",
+      "name": "Sample Wrap",
+      "category": "Mains",
+      "subcategory": "Wraps",
+      "serving": "1 wrap",
+      "nutrition": { "calories_kcal": 380, "fat_g": 14, "saturated_fat_g": 5, "trans_fat_g": 0, "cholesterol_mg": 35, "sodium_mg": 820, "carbohydrates_g": 40, "fibre_g": 4, "total_sugars_g": 4, "protein_g": 20 }
+    },
+    {
+      "id": "sample-3",
+      "name": "Sample Cookie",
+      "category": "Sweets",
+      "subcategory": "Cookies",
+      "serving": "1 cookie",
+      "nutrition": { "calories_kcal": 210, "fat_g": 9, "saturated_fat_g": 4, "trans_fat_g": 0, "cholesterol_mg": 15, "sodium_mg": 140, "carbohydrates_g": 30, "fibre_g": 1, "total_sugars_g": 18, "protein_g": 2 }
+    }
+  ]
+}

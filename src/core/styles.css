@@ -1,0 +1,19 @@
+/*
+ * Shared base styles for nutrition calculators. Import once per app, after
+ * `@import "tailwindcss";`. Apps override the --brand* variables in their own
+ * `@theme`/`:root` block.
+ */
+
+:root {
+  --brand: #006491;
+  --brand-accent: #e31837;
+  --brand-soft: #e0f0f7;
+}
+
+.scrollbar-none::-webkit-scrollbar { display: none; }
+.scrollbar-none { -ms-overflow-style: none; scrollbar-width: none; }
+
+.scrollbar-thin::-webkit-scrollbar { width: 6px; height: 6px; }
+.scrollbar-thin::-webkit-scrollbar-track { background: transparent; }
+.scrollbar-thin::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
+.scrollbar-thin::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
